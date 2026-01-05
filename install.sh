@@ -48,10 +48,10 @@ Options:
 
 Examples:
     # Install
-    curl -fsSL https://raw.githubusercontent.com/<user>/loopback-setup/main/install.sh | sudo bash
+    curl -fsSL https://raw.githubusercontent.com/li-zhixin/loopback-setup/master/install.sh | sudo bash
 
     # Uninstall
-    curl -fsSL ... | sudo bash -s -- --uninstall
+    curl -fsSL https://raw.githubusercontent.com/li-zhixin/loopback-setup/master/install.sh | sudo bash -s -- --uninstall
 EOF
 }
 

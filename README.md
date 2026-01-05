@@ -7,13 +7,13 @@ Persist additional loopback addresses on macOS across reboots.
 ### Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<user>/loopback-setup/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/li-zhixin/loopback-setup/master/install.sh | sudo bash
 ```
 
 ### Uninstall
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<user>/loopback-setup/main/install.sh | sudo bash -s -- --uninstall
+curl -fsSL https://raw.githubusercontent.com/li-zhixin/loopback-setup/master/install.sh | sudo bash -s -- --uninstall
 ```
 
 ## What it does
